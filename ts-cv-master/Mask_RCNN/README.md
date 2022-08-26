@@ -60,7 +60,7 @@ python general_solution.py
 
 #### Extra and Prediction:
 
-<img src="./src/extra_predicetion.png" alt="图片alt" title="图片title" style="zoom:50%;" >
+<img src="./src/extra_prediction.png" alt="图片alt" title="图片title" style="zoom:50%;" >
 
 To get the image of Predicted General solution from a 3D perspective:
 
