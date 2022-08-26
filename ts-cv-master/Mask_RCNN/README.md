@@ -43,7 +43,7 @@ Peripheral Dependencies:
 
 ### 1. Training dataset
 
-The training data has already in the folder `data`, present in file burgers_shock.mat
+The training dataset is already in the folder `data`, present in file burgers_shock.mat
 
 #### dataset:
 
@@ -62,7 +62,7 @@ python pinns_oneflow.py
 
 <img src="./src/extra_prediction.png" alt="图片alt" title="图片title" style="zoom:50%;" >
 
-To get the image of Predicted General solution from a 3D perspective, please run:
+To get the image of Predicted General solution from a 3D perspective:
 
 ```
 python general_solution.py
