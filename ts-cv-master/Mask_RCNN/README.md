@@ -55,19 +55,19 @@ The training data has already in the folder `data`, present in file burgers_shoc
 To get the image of Cross-section of the Extra General solution and the Predicted General solution:
 
 ```
-python general_solution.py
+python pinns_oneflow.py
 ```
 
 #### Extra and Prediction:
 
 <img src="./src/extra_prediction.png" alt="图片alt" title="图片title" style="zoom:50%;" >
 
-To get the image of Predicted General solution from a 3D perspective:
+To get the image of Predicted General solution from a 3D perspective, please run:
+
+```
+python general_solution.py
+```
 
 #### Predictied General Solution:
 
 <img src="./src/general_solution.png" alt="图片alt" title="图片title" style="zoom:50%;" >
-
-```
-python pinns_oneflow.py
-```
