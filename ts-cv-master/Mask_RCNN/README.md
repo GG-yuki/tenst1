@@ -31,7 +31,7 @@ This is a simple implementation of the Physics-informed Neural Networks (PINNs) 
 
 Major Dependencies:
 
- - ***oneflow (for oneflow Implementation)***: ```pip install --upgrade oneflow``
+ - ***oneflow (for oneflow Implementation)***: ```pip install --upgrade oneflow```
 
 Peripheral Dependencies:
  
